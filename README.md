@@ -11,7 +11,8 @@ A web application that analyzes user input to detect burnout or stress levels us
 ## Tech Stack
 - React.js
 - JavaScript
-- APIs (AI-based analysis)
+- Node.js(for API handling)
+- Groq API(AI-based analysis)
 
 ## What I Learned
 - Working with API keys and external services
